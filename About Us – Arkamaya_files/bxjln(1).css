@@ -1,0 +1,8 @@
+.hide-icon.main-menu ul.sub-menu li a:before {
+display: none;
+}
+.hide-icon.main-menu ul.sub-menu li a:hover {
+padding-left: 0;
+} .filter-item.hidden {
+display: none;
+}
